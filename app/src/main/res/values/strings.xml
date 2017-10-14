@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MediaCloud</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="animations">Animaciones</string>
+    <string name="graphics">Graficos</string>
+    <string name="audio">Audio</string>
+    <string name="image">Imagen</string>
+    <string name="video">Video</string>
+    <string name="open">Abrir</string>
+    <string name="capture">Capturar</string>
+    <string name="recorde">Grabar</string>
+    <string name="stop_audio">Detener audio</string>
+    <string name="no_file">Ruta:Ningun archivo seleccionado</string>
+    <string name="play_audio">Reproducir audio</string>
+    <string name="stop_recording">Detener</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
